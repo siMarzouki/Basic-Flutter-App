@@ -4,6 +4,6 @@
  After installing flutter and setting up the editor, to test everything we need to run the default app.
  
  
- 
+ ![](./screenshot.png)
  
  
