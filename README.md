@@ -5,7 +5,9 @@
  
  
  # Screenshot
- ![](./screenshot.png | height=250)
+ <img src="./screenshot.png" height="400px"/>
+ 
+ 
  
  # Links 
 - How to make the first app : https://flutter-pro.com/flutter/1/4
