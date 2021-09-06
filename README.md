@@ -8,6 +8,6 @@
  ![](./screenshot.png)
  
  # Links 
-How to make the first app : https://flutter-pro.com/flutter/1/4
-Analysing the first app   : https://flutter-pro.com/flutter/1/5
+- How to make the first app : https://flutter-pro.com/flutter/1/4
+- Analysing the first app   : https://flutter-pro.com/flutter/1/5
  
