@@ -5,7 +5,7 @@
  
  
  # Screenshot
- ![](./screenshot.png)
+ ![](./screenshot.png | height=250)
  
  # Links 
 - How to make the first app : https://flutter-pro.com/flutter/1/4
