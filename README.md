@@ -4,7 +4,7 @@
  After installing flutter and setting up the editor, to test everything we need to run the default app.
  
  # Tutorial Video
- https://www.youtube.com/watch?v=mmtuEKcvY3g&t=57s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmtuEKcvY3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  # Screenshot
  <img src="./screenshot.png" height="400px"/>
