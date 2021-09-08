@@ -3,6 +3,8 @@
  
  After installing flutter and setting up the editor, to test everything we need to run the default app.
  
+ # Tutorial Video
+ https://www.youtube.com/watch?v=mmtuEKcvY3g&t=57s
  
  # Screenshot
  <img src="./screenshot.png" height="400px"/>
